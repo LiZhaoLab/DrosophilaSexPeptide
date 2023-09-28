@@ -1,0 +1,2521 @@
+TBLASTN 2.13.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: RefSeq Eukaryotic Representative Genome Database
+           12,720,325 sequences; 1,385,756,998,789 total letters
+
+
+
+Query= SP
+
+Length=15
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NC_052522.2 Drosophila simulans strain w501 chromosome 3L, Prin_D...  37.4    0.56 
+NC_053031.1 Drosophila teissieri strain GT53w chromosome 3L, Prin...  37.0    0.81 
+NC_066613.1 Drosophila biarmipes strain raj3 chromosome 3L, RU_DB...  36.2    1.3  
+NW_023496812.1 Drosophila suzukii strain WT3_2.0 chromosome 3L un...  35.4    2.6  
+NC_053032.1 Drosophila teissieri strain GT53w chromosome 3R, Prin...  35.0    3.3  
+NC_045951.1 Drosophila sechellia strain sech25 chromosome 3L, ASM...  34.7    4.5  
+NT_037436.4 Drosophila melanogaster chromosome 3L                     34.7    4.5  
+NW_026453178.1 Drosophila gunungcola strain Sukarami chromosome 3...  34.7    4.6  
+NC_050612.1 Drosophila subpulchrella strain 33 F10 #4 breed RU33 ...  34.7    4.7  
+NW_025063860.1 Drosophila bipectinata isolate 14024-0381.04 unpla...  34.7    4.7  
+NW_024545578.1 Drosophila elegans isolate 14027-0461.03 unplaced ...  34.7    4.7  
+NC_046669.1 Drosophila mauritiana strain mau12 chromosome 3L, ASM...  34.7    4.7  
+NW_024573038.1 Drosophila eugracilis isolate 14026-0451.02 unplac...  34.7    4.7  
+NW_025323476.1 Drosophila takahashii isolate IR98-3 E-12201 unpla...  34.7    4.7  
+NW_025064189.1 Drosophila ficusphila isolate 14025-0441.05 unplac...  34.7    4.7  
+NC_053018.2 Drosophila santomea strain STO CAGO 1482 chromosome 3...  34.7    4.9  
+NC_052529.2 Drosophila yakuba strain Tai18E2 chromosome 3L, Prin_...  34.7    5.1  
+NW_020825198.1 Drosophila erecta strain 14021-0224.00,06,07 unpla...  34.3    7.2  
+NW_025335043.1 Drosophila rhopaloa isolate 14029-0021.01 unplaced...  33.9    9.9  
+NW_022995744.1 Drosophila guanche unplaced genomic scaffold, DGUA_6   33.9    10   
+NW_024542679.1 Drosophila obscura isolate BZ-5 IFL unplaced genom...  33.9    11   
+NW_022060545.1 Scaptodrosophila lebanonensis strain 11010-0011.00...  33.5    12   
+NW_025814057.1 Drosophila willistoni isolate 14030-0811.24 chromo...  33.5    13   
+NC_052530.2 Drosophila yakuba strain Tai18E2 chromosome 3R, Prin_...  32.7    21   
+NC_057928.1 Drosophila ananassae strain 14024-0371.13 chromosome ...  32.7    21   
+NW_024572751.1 Drosophila eugracilis isolate 14026-0451.02 unplac...  32.7    24   
+NC_048532.1 Drosophila subobscura isolate 14011-0131.10 chromosom...  32.3    36   
+NC_059473.1 Gymnogyps californianus isolate 813 chromosome 3, ASM...  32.0    42   
+NC_046677.1 Drosophila miranda strain MSH22 chromosome 4, D.miran...  31.6    63   
+NC_046681.1 Drosophila pseudoobscura strain MV2-25 chromosome 4, ...  31.6    63   
+NW_020825294.1 Drosophila persimilis strain 14011-0111.01,24,50 u...  31.6    63   
+NC_053019.2 Drosophila santomea strain STO CAGO 1482 chromosome 3...  31.6    64   
+NW_024571417.1 Drosophila kikkawai isolate 14028-0561.14 unplaced...  31.6    71   
+NC_046606.1 Drosophila busckii strain San Diego stock center, sto...  30.4    153  
+NW_025323500.1 Drosophila takahashii isolate IR98-3 E-12201 unpla...  30.4    156  
+NC_046670.1 Drosophila mauritiana strain mau12 chromosome 3R, ASM...  30.4    181  
+NT_033777.3 Drosophila melanogaster chromosome 3R                     30.0    203  
+NC_045952.1 Drosophila sechellia strain sech25 chromosome 3R, ASM...  30.0    203  
+NC_052523.2 Drosophila simulans strain w501 chromosome 3R, Prin_D...  30.0    203  
+NW_018366269.1 Drosophila serrata strain Fors4 unplaced genomic s...  29.3    411  
+NW_022995376.1 Drosophila innubila isolate TH190305 chromosome 3L...  28.9    580  
+NW_020194619.1 Hyaloscypha bicolor E unplaced genomic scaffold K4...  28.5    658  
+NW_020824766.1 Drosophila novamexicana strain 15010-1031.04,08,12...  28.5    733  
+NW_022587555.1 Drosophila virilis strain 15010-1051.48,49,85 unpl...  28.5    770  
+NW_010266195.1 Eurypyga helias isolate BGI_N326 unplaced genomic ...  28.1    1004 
+NW_008598054.1 Merops nubicus isolate BGI_N331 unplaced genomic s...  28.1    1024 
+NC_045428.1 Sarcophilus harrisii chromosome 3, mSarHar1.11            27.3    1720 
+NW_006912905.1 Capronia epimyces CBS 606.96 aczIQ-supercont1.2, w...  27.3    1954 
+NW_015504279.1 Miniopterus natalensis isolate MN2012-01 unplaced ...  26.9    2285 
+NW_013658750.1 Thamnophis sirtalis isolate EDBJR-23777 unplaced g...  26.9    2753 
+NW_004473083.1 Dasypus novemcinctus isolate 3-136 unplaced genomi...  26.9    3066 
+NC_062559.1 Phacochoerus africanus isolate WHEZ1 chromosome 16, R...  26.9    3096 
+NC_045556.1 Thamnophis elegans isolate rThaEle1 chromosome 16, rT...  26.6    3349 
+NC_051084.1 Peromyscus leucopus breed LL Stock chromosome 16_21, ...  26.6    3382 
+NC_059475.1 Gymnogyps californianus isolate 813 chromosome 5, ASM...  26.6    3382 
+NW_021964165.1 Vicugna pacos isolate Carlotta (AHFN-0088) chromos...  26.6    3382 
+NW_025965320.1 Myodes glareolus unplaced genomic scaffold, Bank_v...  26.6    3552 
+NW_004524667.1 Octodon degus isolate 3935 unplaced genomic scaffo...  26.6    3730 
+NC_054389.1 Drechmeria coniospora strain ARSEF 6962 chromosome 01...  26.6    3804 
+NC_064920.1 Schistocerca gregaria isolate iqSchGreg1 chromosome 1...  26.6    3841 
+NW_018151086.1 Pogona vitticeps unplaced genomic scaffold, pvi1.1...  26.6    3956 
+NW_004497271.1 Dasypus novemcinctus isolate 3-136 unplaced genomi...  26.6    4074 
+NW_018108255.1 Loa loa unplaced genomic scaffold supercont3.75, w...  26.2    4280 
+NC_067141.1 Acomys russatus chromosome 5, mAcoRus1.1                  26.2    4494 
+NW_006432224.1 Pteropus alecto unplaced genomic scaffold, ASM3255...  26.2    4583 
+NC_059160.1 Bubalus bubalis isolate 160015118507 breed Murrah chr...  26.2    4628 
+NC_037332.1 Bos taurus isolate L1 Dominette 01449 registration nu...  26.2    4628 
+NW_026260792.1 Pisolithus orientalis strain OTSU chromosome Unkno...  26.2    4628 
+NW_010476256.1 Chlamydotis macqueenii isolate BGI_N324 unplaced g...  26.2    4675 
+NC_051063.1 Peromyscus leucopus breed LL Stock chromosome 1, UCI_...  26.2    4719 
+NW_017963657.1 Cyberlindnera jadinii NRRL Y-1542 unplaced genomic...  26.2    4720 
+NC_055964.1 Alosa sapidissima isolate fAloSap1 chromosome 8, fAlo...  26.2    4908 
+NC_065572.1 Mercurialis annua linkage group LG3, ddMerAnnu1.1         26.2    5005 
+NC_064644.1 Schistocerca serialis cubense isolate TAMUIC-IGC-0030...  26.2    5104 
+NW_020799097.1 Athene cunicularia isolate RWA chromosome 3 unloca...  26.2    5308 
+NW_022639599.1 Odontomachus brunneus isolate Ranch 3 - 2012 unpla...  26.2    5309 
+NC_050607.1 Megalops cyprinoides isolate fMegCyp1 chromosome 25, ...  26.2    5361 
+NW_026542595.1 Macrosteles quadrilineatus isolate MER2022 unplace...  26.2    5413 
+NC_032654.1 Bos indicus isolate QUIL7308 breed Nelore chromosome ...  26.2    5413 
+NC_040080.1 Bos indicus x Bos taurus breed Angus x Brahman F1 hyb...  26.2    5413 
+NC_046982.1 Cyclopterus lumpus isolate fCycLum1 chromosome 17, fC...  26.2    5413 
+NW_011494955.1 Bison bison bison isolate TAMUID 2011002044 unplac...  26.2    5413 
+NC_064755.1 Epinephelus fuscoguttatus linkage group LG4, E.fuscog...  26.2    5467 
+NC_071614.1 Dryobates pubescens isolate bDryPub1 chromosome 3, bD...  26.2    5575 
+NC_044569.1 Rhinopithecus roxellana isolate Shanxi Qingling chrom...  26.2    5630 
+NC_051448.1 Kryptolebias marmoratus isolate JLee-2015 linkage gro...  26.2    5685 
+NC_051170.1 Rhipicephalus microplus isolate Rmic-2018 chromosome ...  26.2    5798 
+NC_052153.1 Scyliorhinus canicula chromosome 8, sScyCan1.1            25.8    5855 
+NC_071326.1 Anopheles marshallii chromosome 2, idAnoMarsDA_429_01     25.8    5855 
+NC_052477.1 Dioscorea cayenensis subsp. rotundata cultivar TDr96_...  25.8    5855 
+NW_026262679.1 Mytilus californianus isolate M0D057914Y unplaced ...  25.8    5971 
+NW_022205645.1 Phasianus colchicus isolate SZU-A5-319 unplaced ge...  25.8    6030 
+NC_059082.1 Mauremys mutica isolate MM-2020 ecotype Southern chro...  25.8    6089 
+NW_023144627.1 Thrips palmi isolate BJ-2018 unplaced genomic scaf...  25.8    6089 
+NC_057382.1 Rhizoctonia solani chromosome 13, complete sequence       25.8    6089 
+NC_052632.1 Mauremys reevesii isolate NIE-2019 linkage group 10, ...  25.8    6149 
+NW_016816262.1 Rhinopithecus bieti isolate Rb0 unplaced genomic s...  25.8    6149 
+NW_022900942.1 Fukomys damarensis isolate Sample0158 unplaced gen...  25.8    6210 
+NC_057817.1 Cervus elaphus chromosome 3, mCerEla1.1                   25.8    6210 
+NC_057410.1 Cervus canadensis isolate Bull #8, Minnesota chromoso...  25.8    6210 
+NC_065525.1 Epinephelus moara isolate mb chromosome 20, YSFRI_EMo...  25.8    6271 
+NC_056029.1 Peromyscus maniculatus bairdii isolate BW chromosome ...  25.8    6458 
+NC_061813.1 Girardinichthys multiradiatus isolate DD_20200921_A c...  25.8    6458 
+NC_051245.2 Chelonia mydas isolate rCheMyd1 chromosome 5, rCheMyd...  25.8    6521 
+NW_009952052.1 Chaetura pelagica isolate M959 unplaced genomic sc...  25.8    6521 
+NC_072822.1 Dunckerocampus dactyliophorus isolate RoL2022-P2 chro...  25.8    6716 
+NC_062972.1 Leguminivora glycinivorella isolate SPB_JAAS2020 chro...  25.8    6849 
+NW_023605194.1 Talpa occidentalis isolate TD23 unplaced genomic s...  25.8    6916 
+NC_067154.1 Acomys russatus chromosome 18, mAcoRus1.1                 25.8    6916 
+NC_068921.1 Budorcas taxicolor isolate Tak-1 chromosome 12, Takin1.1  25.8    6984 
+NC_051169.1 Rhipicephalus microplus isolate Rmic-2018 chromosome ...  25.8    7053 
+NW_004451079.1 Odobenus rosmarus divergens isolate Ivan unplaced ...  25.8    7053 
+NW_010387636.1 Morus notabilis unplaced genomic scaffold, ASM4140...  25.8    7123 
+NW_021939798.1 Manacus vitellinus isolate BGI_N305 unplaced genom...  25.8    7193 
+NC_039293.1 Carassius auratus strain Wakin linkage group LG28B, A...  25.8    7264 
+NW_003613778.1 Cricetulus griseus unplaced genomic scaffold, CriG...  25.8    7264 
+NW_010387452.1 Morus notabilis unplaced genomic scaffold, ASM4140...  25.8    7284 
+NC_068377.1 Carassius gibelio isolate Cgi1373 ecotype wild popula...  25.8    7335 
+NW_016107412.1 Cebus imitator isolate Cc_AM_T3 unplaced genomic s...  25.8    7407 
+NC_064632.1 Schistocerca cancellata isolate TAMUIC-IGC-003103 chr...  25.8    7856 
+NC_044513.1 Camelus dromedarius isolate Drom800 breed African chr...  25.8    7856 
+NC_045698.1 Camelus ferus isolate YT-003-E chromosome 3, BCGSAC_C...  25.8    7856 
+NW_011514979.1 Camelus bactrianus breed Alxa unplaced genomic sca...  25.8    7856 
+NW_024429204.1 Mesocricetus auratus isolate SY011 unplaced genomi...  25.4    8090 
+NC_068389.1 Carassius gibelio isolate Cgi1373 ecotype wild popula...  25.4    8090 
+NT_176394.1 Cavia porcellus strain inbred line 2N unplaced genomi...  25.4    8090 
+NC_051057.1 Acanthopagrus latus isolate v.2019 chromosome 19, fAc...  25.4    8090 
+NC_064843.1 Elephas maximus indicus isolate mEleMax1 chromosome 2...  25.4    8170 
+NC_067451.1 Hippocampus zosterae strain Florida chromosome 1, ASM...  25.4    8170 
+NW_022681465.1 Trachypithecus francoisi isolate TF-2019V2 unplace...  25.4    8251 
+NC_039286.1 Carassius auratus strain Wakin chromosome 44, ASM3368...  25.4    8332 
+NC_071292.1 Anopheles nili chromosome 3, idAnoNiliSN_F5_01            25.4    8414 
+NW_010972631.1 Haliaeetus leucocephalus isolate CR32 unplaced gen...  25.4    8497 
+NW_003573495.1 Loxodonta africana isolate ISIS603380 unplaced gen...  25.4    8497 
+NW_009782037.1 Haliaeetus albicilla isolate BGI_N329 unplaced gen...  25.4    8503 
+NC_051083.1 Peromyscus leucopus breed LL Stock chromosome X, UCI_...  25.4    8580 
+NC_056031.1 Peromyscus maniculatus bairdii isolate BW chromosome ...  25.4    8580 
+NW_026535805.1 Melozone crissalis strain CALT ecotype California ...  25.4    8580 
+NW_004955447.1 Chinchilla lanigera isolate Chin_1 unplaced genomi...  25.4    8580 
+NW_026138095.1 Manacus candei isolate 608988 ecotype Guabito, Pan...  25.4    8580 
+NC_053132.1 Perca fluviatilis chromosome 21, GENO_Pfluv_1.0           25.4    8750 
+NW_024100954.1 Saimiri boliviensis boliviensis isolate 100643 bre...  25.4    8750 
+NW_022611647.1 Hylobates moloch isolate HMO894 unplaced genomic s...  25.4    8836 
+NC_062295.1 Lutra lutra chromosome 18, mLutLut1.2                     25.4    8836 
+NW_022103942.1 Echinops telfairi isolate 266 unplaced genomic sca...  25.4    8836 
+NW_004443966.1 Trichechus manatus latirostris isolate Lorelei unp...  25.4    9011 
+NW_023425402.1 Molossus molossus isolate mMolMol1 unplaced genomi...  25.4    9100 
+NW_004454157.1 Ceratotherium simum simum isolate SDZICR_KB13650 u...  25.4    9100 
+NC_050463.1 Onychomys torridus chromosome 21, mOncTor1.1              25.4    9100 
+NW_026068027.1 Microtus fortis isolate MF-2015 unplaced genomic s...  25.4    9190 
+NC_071523.1 Malaclemys terrapin pileata isolate rMalTer1 chromoso...  25.4    9372 
+NW_021635040.1 Prosopis alba isolate B1F8T4 unplaced genomic scaf...  25.4    9372 
+NW_024872869.1 Cyprinus carpio isolate SPL01 unplaced genomic sca...  25.4    9396 
+NC_037632.1 Arachis hypogaea cultivar Tifrunner chromosome Arahy....  25.4    9557 
+NC_029789.2 Arachis ipaensis cultivar K30076 chromosome B05, Arai...  25.4    9557 
+NC_059211.1 Coregonus clupeaformis isolate EN_2021a chromosome 20...  25.4    9557 
+NC_049215.1 Anguilla anguilla isolate fAngAng1 chromosome 15, fAn...  25.4    9557 
+NW_005871063.1 Myotis lucifugus unplaced genomic scaffold, Myoluc...  25.4    9557 
+NW_005364372.1 Myotis brandtii unplaced genomic scaffold, ASM4126...  25.4    9557 
+NW_018514583.1 Aotus nancymaae isolate 86115 unplaced genomic sca...  25.4    9557 
+NW_011933306.1 Pogonomyrmex barbatus unplaced genomic scaffold, P...  25.4    9560 
+NW_024070213.1 Oryx dammah isolate SB20612 unplaced genomic scaff...  25.4    9651 
+NC_056028.1 Peromyscus maniculatus bairdii isolate BW chromosome ...  25.4    9651 
+NW_020289932.1 Pseudomicrostroma glucosiphilum strain MCA 4718 un...  25.4    9652 
+NC_060071.1 Meles meles chromosome 6, mMelMel3.1 paternal haplotype   25.4    9842 
+NC_072794.1 Eublepharis macularius isolate TG4126 chromosome 5, M...  25.4    9939 
+NC_064852.1 Suncus etruscus isolate mSunEtr1 chromosome 5, mSunEt...  25.4    9939 
+
+
+>NC_052522.2 Drosophila simulans strain w501 chromosome 3L, Prin_Dsim_3.1
+Length=23399903
+
+ Score = 37.4 bits (85),  Expect = 0.56, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  13087500  KWCRLNLGPAWGGRC  13087544
+
+
+>NC_053031.1 Drosophila teissieri strain GT53w chromosome 3L, Prin_Dtei_1.1
+Length=24551875
+
+ Score = 37.0 bits (84),  Expect = 0.81, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  13459298  KWCRLNLGPAWGGRC  13459342
+
+
+>NC_066613.1 Drosophila biarmipes strain raj3 chromosome 3L, RU_DBia_V1.1
+Length=28524468
+
+ Score = 36.2 bits (82),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  11000802  KWCRLNLGPAWGGRC  11000846
+
+
+ Score = 35.0 bits (79),  Expect = 3.8, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGR 
+Sbjct  11098011  KWCRLNLGPAWGGRT  11097967
+
+
+ Score = 32.0 bits (71),  Expect = 52, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 K CRLNLGPAWGGRC
+Sbjct  11010679  KSCRLNLGPAWGGRC  11010635
+
+
+ Score = 26.2 bits (56),  Expect = 5361, Method: Compositional matrix adjust.
+ Identities = 11/15 (73%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLN  P W GRC
+Sbjct  10983863  KWCRLNSKPLWCGRC  10983819
+
+
+>NW_023496812.1 Drosophila suzukii strain WT3_2.0 chromosome 3L unlocalized genomic 
+scaffold, LBDM_Dsuz_2.1.pri Contig_2
+Length=24550668
+
+ Score = 35.4 bits (80),  Expect = 2.6, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  15844118  KWCRLNLGPAWGGRC  15844074
+
+
+ Score = 32.0 bits (71),  Expect = 52, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 K CRLNLGPAWGGRC
+Sbjct  15829213  KSCRLNLGPAWGGRC  15829257
+
+
+ Score = 29.6 bits (65),  Expect = 292, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KW RLNLGPAWGGR
+Sbjct  15727640  KWDRLNLGPAWGGR  15727681
+
+
+>NC_053032.1 Drosophila teissieri strain GT53w chromosome 3R, Prin_Dtei_1.1
+Length=32100711
+
+ Score = 35.0 bits (79),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPA+GGRC
+Sbjct  29733191  KWCRLNLGPAYGGRC  29733147
+
+
+ Score = 31.2 bits (69),  Expect = 79, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPA GGRC
+Sbjct  14366328  KWCRLNLGPANGGRC  14366284
+
+
+>NC_045951.1 Drosophila sechellia strain sech25 chromosome 3L, ASM438219v1
+Length=28131630
+
+ Score = 34.7 bits (78),  Expect = 4.5, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  12993370  KWCRLNLGPAWGGRC  12993414
+
+
+>NT_037436.4 Drosophila melanogaster chromosome 3L
+Length=28110227
+
+ Score = 34.7 bits (78),  Expect = 4.5, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  13301823  KWCRLNLGPAWGGRC  13301867
+
+
+>NW_026453178.1 Drosophila gunungcola strain Sukarami chromosome 3L unlocalized 
+genomic scaffold, Dgunungcola_SK_2 000002F
+Length=8125922
+
+ Score = 34.7 bits (78),  Expect = 4.6, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRL LGPAWGGRC
+Sbjct  3934863  KWCRLQLGPAWGGRC  3934907
+
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRL LGPAWGGRC
+Sbjct  3932946  KWCRLQLGPAWGGRC  3932990
+
+
+ Score = 33.1 bits (74),  Expect = 18, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRL LGPAWGGRC
+Sbjct  3934312  KWCRLQLGPAWGGRC  3934356
+
+
+>NC_050612.1 Drosophila subpulchrella strain 33 F10 #4 breed RU33 chromosome 
+3L, RU_Dsub_v1.1 Primary Assembly
+Length=29495227
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  18836704  KWCRLNLGPAWGGRC  18836748
+
+
+ Score = 32.0 bits (71),  Expect = 48, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 K CRLNLGPAWGGRC
+Sbjct  18846571  KSCRLNLGPAWGGRC  18846527
+
+
+ Score = 29.6 bits (65),  Expect = 319, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KW RLNLGPAWGGR
+Sbjct  18943599  KWERLNLGPAWGGR  18943558
+
+
+>NW_025063860.1 Drosophila bipectinata isolate 14024-0381.04 unplaced genomic 
+scaffold, ASM1815384v1 contig_1
+Length=28593753
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  3502343  KWCRLNLGPAWGGRC  3502299
+
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  3501368  KWCRLNLGPAWGGRC  3501324
+
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  3500458  KWCRLNLGPAWGGRC  3500414
+
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  3499467  KWCRLNLGPAWGGRC  3499423
+
+
+ Score = 32.0 bits (71),  Expect = 46, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGP +GGRC
+Sbjct  3506338  KWCRLNLGPIYGGRC  3506382
+
+
+ Score = 29.6 bits (65),  Expect = 313, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGP +GG C
+Sbjct  3504305  KWCRLNLGPFYGGMC  3504349
+
+
+ Score = 29.3 bits (64),  Expect = 403, Method: Compositional matrix adjust.
+ Identities = 11/15 (73%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWC L+LGP WGG+C
+Sbjct  3508134  KWCLLDLGPVWGGKC  3508178
+
+
+>NW_024545578.1 Drosophila elegans isolate 14027-0461.03 unplaced genomic scaffold, 
+ASM1815250v1 contig_208
+Length=28425668
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  9145088  KWCRLNLGPAWGGRC  9145132
+
+
+ Score = 28.5 bits (62),  Expect = 748, Method: Compositional matrix adjust.
+ Identities = 11/15 (73%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                 WCRL+L P WGGRC
+Sbjct  9147070  NWCRLHLAPPWGGRC  9147114
+
+
+>NC_046669.1 Drosophila mauritiana strain mau12 chromosome 3L, ASM438214v1
+Length=26143691
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  12948044  KWCRLNLGPAWGGRC  12948088
+
+
+>NW_024573038.1 Drosophila eugracilis isolate 14026-0451.02 unplaced genomic 
+scaffold, ASM1815383v1 contig_2154
+Length=13552899
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGPAWGGRC
+Sbjct  10684419  KWCRLNLGPAWGGRC  10684463
+
+
+>NW_025323476.1 Drosophila takahashii isolate IR98-3 E-12201 unplaced genomic 
+scaffold, ASM1815269v1 contig_118
+Length=10112099
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  1690357  KWCRLNLGPAWGGRC  1690401
+
+
+>NW_025064189.1 Drosophila ficusphila isolate 14025-0441.05 unplaced genomic 
+scaffold, ASM1815226v1 contig_286
+Length=9958166
+
+ Score = 34.7 bits (78),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPAWGGRC
+Sbjct  1890292  KWCRLNLGPAWGGRC  1890248
+
+
+ Score = 32.3 bits (72),  Expect = 29, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPA+GG+C
+Sbjct  1904701  KWCRLNLGPAYGGKC  1904745
+
+
+ Score = 31.2 bits (69),  Expect = 79, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPA GGRC
+Sbjct  4551270  KWCRLNLGPANGGRC  4551226
+
+
+ Score = 26.9 bits (58),  Expect = 3036, Method: Compositional matrix adjust.
+ Identities = 11/15 (73%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                 WC  NLGPAW GRC
+Sbjct  1889724  DWCVSNLGPAWEGRC  1889680
+
+
+>NC_053018.2 Drosophila santomea strain STO CAGO 1482 chromosome 3L, Prin_Dsan_1.1
+Length=25621868
+
+ Score = 34.7 bits (78),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP WGGRC
+Sbjct  13559480  KWCRLNLGPGWGGRC  13559524
+
+
+>NC_052529.2 Drosophila yakuba strain Tai18E2 chromosome 3L, Prin_Dyak_Tai18E2_2.1
+Length=25180761
+
+ Score = 34.7 bits (78),  Expect = 5.1, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP WGGRC
+Sbjct  13486176  KWCRLNLGPGWGGRC  13486220
+
+
+>NW_020825198.1 Drosophila erecta strain 14021-0224.00,06,07 unplaced genomic 
+scaffold, DereRS2 tig00000021-arrow-pilon
+Length=26197553
+
+ Score = 34.3 bits (77),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP WGGRC
+Sbjct  13573176  KWCRLNLGPGWGGRC  13573220
+
+
+>NW_025335043.1 Drosophila rhopaloa isolate 14029-0021.01 unplaced genomic scaffold, 
+ASM1815211v1 contig_163
+Length=15806012
+
+ Score = 33.9 bits (76),  Expect = 9.9, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWC+LNLGPAWGGRC
+Sbjct  3858710  KWCKLNLGPAWGGRC  3858666
+
+
+>NW_022995744.1 Drosophila guanche unplaced genomic scaffold, DGUA_6
+Length=12801222
+
+ Score = 33.9 bits (76),  Expect = 10, Method: Composition-based stats.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWCRLN GPAWGGR
+Sbjct  4770031  KWCRLNFGPAWGGR  4769990
+
+
+>NW_024542679.1 Drosophila obscura isolate BZ-5 IFL unplaced genomic scaffold, 
+ASM1815110v1 contig_1
+Length=11558308
+
+ Score = 33.9 bits (76),  Expect = 11, Method: Composition-based stats.
+ Identities = 12/14 (86%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWCR+N GPAWGGR
+Sbjct  9846043  KWCRINFGPAWGGR  9846002
+
+
+>NW_022060545.1 Scaptodrosophila lebanonensis strain 11010-0011.00,11010-0021.00 
+unplaced genomic scaffold, SlebRS2 tig00000043-arrow-pilon
+Length=14502516
+
+ Score = 33.5 bits (75),  Expect = 12, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGP WGGRC
+Sbjct  1840474  KWCRLNLGPVWGGRC  1840430
+
+
+>NW_025814057.1 Drosophila willistoni isolate 14030-0811.24 chromosome XR unlocalized 
+genomic scaffold, UCI_dwil_1.1 Seg144
+Length=11514248
+
+ Score = 33.5 bits (75),  Expect = 13, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLNLGPA+GGRC
+Sbjct  4642308  KWCRLNLGPAYGGRC  4642352
+
+
+>NC_052530.2 Drosophila yakuba strain Tai18E2 chromosome 3R, Prin_Dyak_Tai18E2_2.1
+Length=30730773
+
+ Score = 32.7 bits (73),  Expect = 21, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 +WC+LNLGPAWGGRC
+Sbjct  22748980  QWCKLNLGPAWGGRC  22749024
+
+
+>NC_057928.1 Drosophila ananassae strain 14024-0371.13 chromosome 2R, ASM1763931v2
+Length=27161637
+
+ Score = 32.7 bits (73),  Expect = 21, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP WGGRC
+Sbjct  14837105  KWCRLNLGPLWGGRC  14837061
+
+
+ Score = 32.7 bits (73),  Expect = 21, Method: Compositional matrix adjust.
+ Identities = 14/15 (93%), Positives = 14/15 (93%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP WGGRC
+Sbjct  14819639  KWCRLNLGPLWGGRC  14819595
+
+
+ Score = 31.6 bits (70),  Expect = 68, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP W GRC
+Sbjct  14836637  KWCRLNLGPFWSGRC  14836593
+
+
+>NW_024572751.1 Drosophila eugracilis isolate 14026-0451.02 unplaced genomic 
+scaffold, ASM1815383v1 contig_1897
+Length=2280421
+
+ Score = 32.7 bits (73),  Expect = 24, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                +WCRLNLGPAWGG+C
+Sbjct  2212746  RWCRLNLGPAWGGKC  2212702
+
+
+>NC_048532.1 Drosophila subobscura isolate 14011-0131.10 chromosome J, UCBerk_Dsub_1.0
+Length=23815339
+
+ Score = 32.3 bits (72),  Expect = 36, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLN GPAWGGR 
+Sbjct  5221434  KWCRLNFGPAWGGRA  5221390
+
+
+ Score = 32.0 bits (71),  Expect = 41, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWCRLN GPAWGGR
+Sbjct  5220800  KWCRLNFGPAWGGR  5220759
+
+
+>NC_059473.1 Gymnogyps californianus isolate 813 chromosome 3, ASM1813914v2
+Length=128162544
+
+ Score = 32.0 bits (71),  Expect = 42, Method: Composition-based stats.
+ Identities = 11/15 (73%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWC LN+GP +GGRC
+Sbjct  92227133  KWCMLNIGPHFGGRC  92227177
+
+
+>NC_046677.1 Drosophila miranda strain MSH22 chromosome 4, D.miranda_PacBio2.1
+Length=32539841
+
+ Score = 31.6 bits (70),  Expect = 63, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KWCRLN GPAWGGR
+Sbjct  13393879  KWCRLNFGPAWGGR  13393838
+
+
+>NC_046681.1 Drosophila pseudoobscura strain MV2-25 chromosome 4, UCI_Dpse_MV25
+Length=30706867
+
+ Score = 31.6 bits (70),  Expect = 63, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWCRLN GPAWGGR
+Sbjct  4354789  KWCRLNFGPAWGGR  4354830
+
+
+>NW_020825294.1 Drosophila persimilis strain 14011-0111.01,24,50 unplaced genomic 
+scaffold, DperRS2 tig00000124-arrow-pilon
+Length=16243843
+
+ Score = 31.6 bits (70),  Expect = 63, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KWCRLN GPAWGGR
+Sbjct  11489399  KWCRLNFGPAWGGR  11489358
+
+
+>NC_053019.2 Drosophila santomea strain STO CAGO 1482 chromosome 3R, Prin_Dsan_1.1
+Length=29038104
+
+ Score = 31.6 bits (70),  Expect = 64, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 +WC+LNLGPA+GGRC
+Sbjct  20981331  QWCKLNLGPAYGGRC  20981375
+
+
+>NW_024571417.1 Drosophila kikkawai isolate 14028-0561.14 unplaced genomic scaffold, 
+ASM1815253v1 contig_295
+Length=19273241
+
+ Score = 31.6 bits (70),  Expect = 71, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 14/14 (100%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGR  14
+                +WCRLNLGPAWGGR
+Sbjct  6805146  RWCRLNLGPAWGGR  6805105
+
+
+>NC_046606.1 Drosophila busckii strain San Diego stock center, stock number 
+13000-0081.31 chromosome 3L, ASM1175060v1
+Length=20459230
+
+ Score = 30.4 bits (67),  Expect = 153, Method: Compositional matrix adjust.
+ Identities = 12/14 (86%), Positives = 14/14 (100%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1        KWCRLNLGPAWGGR  14
+                +WC+LNLGPAWGGR
+Sbjct  8914004  EWCKLNLGPAWGGR  8913963
+
+
+>NW_025323500.1 Drosophila takahashii isolate IR98-3 E-12201 unplaced genomic 
+scaffold, ASM1815269v1 contig_3
+Length=21766836
+
+ Score = 30.4 bits (67),  Expect = 156, Method: Compositional matrix adjust.
+ Identities = 12/14 (86%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWC+LN GPAWGGR
+Sbjct  5610200  KWCQLNFGPAWGGR  5610241
+
+
+ Score = 29.6 bits (65),  Expect = 319, Method: Compositional matrix adjust.
+ Identities = 12/14 (86%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWC LN GPAWGGR
+Sbjct  5611439  KWCMLNFGPAWGGR  5611398
+
+
+>NC_046670.1 Drosophila mauritiana strain mau12 chromosome 3R, ASM438214v1
+Length=28872862
+
+ Score = 30.4 bits (67),  Expect = 181, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP  GGRC
+Sbjct  26532911  KWCRLNLGPHLGGRC  26532867
+
+
+>NT_033777.3 Drosophila melanogaster chromosome 3R
+Length=32079331
+
+ Score = 30.0 bits (66),  Expect = 203, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP  GGRC
+Sbjct  29715185  KWCRLNLGPYLGGRC  29715141
+
+
+>NC_045952.1 Drosophila sechellia strain sech25 chromosome 3R, ASM438219v1
+Length=30464902
+
+ Score = 30.0 bits (66),  Expect = 203, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP  GGRC
+Sbjct  28150628  KWCRLNLGPYLGGRC  28150584
+
+
+>NC_052523.2 Drosophila simulans strain w501 chromosome 3R, Prin_Dsim_3.1
+Length=28149585
+
+ Score = 30.0 bits (66),  Expect = 203, Method: Compositional matrix adjust.
+ Identities = 13/15 (87%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRLNLGP  GGRC
+Sbjct  25846542  KWCRLNLGPYLGGRC  25846498
+
+
+>NW_018366269.1 Drosophila serrata strain Fors4 unplaced genomic scaffold, Dser1.0 
+scf3208
+Length=7300740
+
+ Score = 29.3 bits (64),  Expect = 411, Method: Compositional matrix adjust.
+ Identities = 11/14 (79%), Positives = 14/14 (100%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGR  14
+                +WC+LNLGPAWGG+
+Sbjct  3818534  RWCQLNLGPAWGGK  3818575
+
+
+>NW_022995376.1 Drosophila innubila isolate TH190305 chromosome 3L unlocalized 
+genomic scaffold, UK_Dinn_1.0 0_D_3L
+Length=27707067
+
+ Score = 28.9 bits (63),  Expect = 580, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 13/15 (87%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KWCRL+LG  WGGRC
+Sbjct  22063477  KWCRLDLGFGWGGRC  22063433
+
+
+>NW_020194619.1 Hyaloscypha bicolor E unplaced genomic scaffold K444scaffold_117, 
+whole genome shotgun sequence
+Length=2794813
+
+ Score = 28.5 bits (62),  Expect = 658, Method: Composition-based stats.
+ Identities = 10/10 (100%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+ Frame = -1
+
+Query  5        LNLGPAWGGR  14
+                LNLGPAWGGR
+Sbjct  1113547  LNLGPAWGGR  1113518
+
+
+>NW_020824766.1 Drosophila novamexicana strain 15010-1031.04,08,12 unplaced genomic 
+scaffold, DnovRS2.1 tig00000009-arrow-pilon
+Length=4126161
+
+ Score = 28.5 bits (62),  Expect = 733, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLN GP  GGRC
+Sbjct  3025686  KWCRLNYGPYLGGRC  3025642
+
+
+>NW_022587555.1 Drosophila virilis strain 15010-1051.48,49,85 unplaced genomic 
+scaffold, DvirRS2 tig00003823-arrow-pilon
+Length=3487065
+
+ Score = 28.5 bits (62),  Expect = 770, Method: Compositional matrix adjust.
+ Identities = 12/15 (80%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRLN GP  GGRC
+Sbjct  2808648  KWCRLNYGPYLGGRC  2808692
+
+
+>NW_010266195.1 Eurypyga helias isolate BGI_N326 unplaced genomic scaffold, ASM69077v1 
+scaffold5588
+Length=58125
+
+ Score = 28.1 bits (61),  Expect = 1004, Method: Composition-based stats.
+ Identities = 10/15 (67%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1      KWCRLNLGPAWGGRC  15
+              KWCRLN+G  + GRC
+Sbjct  55061  KWCRLNIGT*FFGRC  55105
+
+
+>NW_008598054.1 Merops nubicus isolate BGI_N331 unplaced genomic scaffold, ASM69184v1 
+scaffold1313
+Length=70766
+
+ Score = 28.1 bits (61),  Expect = 1024, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1      KWCRLNLGPAWGGRC  15
+              KWC LN+G  + GRC
+Sbjct  56614  KWCMLNIGTHFSGRC  56570
+
+
+>NC_045428.1 Sarcophilus harrisii chromosome 3, mSarHar1.11
+Length=611347268
+
+ Score = 27.3 bits (59),  Expect = 1720, Method: Composition-based stats.
+ Identities = 7/15 (47%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1          KWCRLNLGPAWGGRC  15
+                  +WCR+ + P   GRC
+Sbjct  129825244  QWCRMEMAPCLSGRC  129825288
+
+
+>NW_006912905.1 Capronia epimyces CBS 606.96 aczIQ-supercont1.2, whole genome 
+shotgun sequence
+Length=3980626
+
+ Score = 27.3 bits (59),  Expect = 1954, Method: Composition-based stats.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  2        WCRLNLGPAWGGR  14
+                W RLN G AWGGR
+Sbjct  3944502  WLRLNKGHAWGGR  3944540
+
+
+>NW_015504279.1 Miniopterus natalensis isolate MN2012-01 unplaced genomic scaffold, 
+Mnat.v1 scaff188
+Length=2920008
+
+ Score = 26.9 bits (58),  Expect = 2285, Method: Composition-based stats.
+ Identities = 9/10 (90%), Positives = 10/10 (100%), Gaps = 0/10 (0%)
+ Frame = -2
+
+Query  3       CRLNLGPAWG  12
+               CRLNLGP+WG
+Sbjct  476486  CRLNLGPSWG  476457
+
+
+>NW_013658750.1 Thamnophis sirtalis isolate EDBJR-23777 unplaced genomic scaffold, 
+Thamnophis_sirtalis-6.0 Scaffold1070
+Length=431148
+
+ Score = 26.9 bits (58),  Expect = 2753, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2      WCRLNLGPAWGGRC  15
+              WCR  L PAW GRC
+Sbjct  31068  WCRQQLRPAWSGRC  31027
+
+
+>NW_004473083.1 Dasypus novemcinctus isolate 3-136 unplaced genomic scaffold, 
+Dasnov3.0 Scaffold15346
+Length=3066510
+
+ Score = 26.9 bits (58),  Expect = 3066, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = +1
+
+Query  1      KWCRLNLGPAWGGR  14
+              ++CRLNLGP  G R
+Sbjct  74938  RYCRLNLGPGMGSR  74979
+
+
+>NC_062559.1 Phacochoerus africanus isolate WHEZ1 chromosome 16, ROS_Pafr_v1
+Length=55950242
+
+ Score = 26.9 bits (58),  Expect = 3096, Method: Compositional matrix adjust.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -2
+
+Query  2         WCRLNLGPAWGGR  14
+                 WCR  LGP WGGR
+Sbjct  55931959  WCRETLGPEWGGR  55931921
+
+
+>NC_045556.1 Thamnophis elegans isolate rThaEle1 chromosome 16, rThaEle1.pri
+Length=39734741
+
+ Score = 26.6 bits (57),  Expect = 3349, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCR  L PAW GRC
+Sbjct  24090506  WCRRQLRPAWSGRC  24090465
+
+
+>NC_051084.1 Peromyscus leucopus breed LL Stock chromosome 16_21, UCI_PerLeu_2.1
+Length=79846141
+
+ Score = 26.6 bits (57),  Expect = 3382, Method: Composition-based stats.
+ Identities = 9/12 (75%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+ Frame = +1
+
+Query  4        RLNLGPAWGGRC  15
+                RL +GP+WGGRC
+Sbjct  6932266  RLKVGPSWGGRC  6932301
+
+
+>NC_059475.1 Gymnogyps californianus isolate 813 chromosome 5, ASM1813914v2
+Length=72277345
+
+ Score = 26.6 bits (57),  Expect = 3382, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWG  12
+                 +WC L+LGP WG
+Sbjct  70678460  RWCALSLGPGWG  70678425
+
+
+>NW_021964165.1 Vicugna pacos isolate Carlotta (AHFN-0088) chromosome 6 unlocalized 
+genomic scaffold, VicPac3.1 ScfyRBE_77258;HRSCAF=79151
+Length=63770147
+
+ Score = 26.6 bits (57),  Expect = 3382, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WC LNLG A+ G+C
+Sbjct  43571184  WCLLNLGVAFSGKC  43571143
+
+
+>NW_025965320.1 Myodes glareolus unplaced genomic scaffold, Bank_vole1_10x scf_65
+Length=49875147
+
+ Score = 26.6 bits (57),  Expect = 3552, Method: Composition-based stats.
+ Identities = 9/12 (75%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWG  12
+                 KW +LNLGP WG
+Sbjct  12979424  KWLKLNLGPTWG  12979459
+
+
+>NW_004524667.1 Octodon degus isolate 3935 unplaced genomic scaffold, OctDeg1.0 
+scaffold00091
+Length=12063278
+
+ Score = 26.6 bits (57),  Expect = 3730, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = +3
+
+Query  2        WCRLNLGPAWGG  13
+                WCR+ + PAWGG
+Sbjct  4863360  WCRMPVTPAWGG  4863395
+
+
+>NC_054389.1 Drechmeria coniospora strain ARSEF 6962 chromosome 01, whole 
+genome shotgun sequence
+Length=12542233
+
+ Score = 26.6 bits (57),  Expect = 3804, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1      KWCRLNLGPAWGGRC  15
+              ++CRL  GP W GRC
+Sbjct  26570  RYCRLTYGPGWTGRC  26614
+
+
+>NC_064920.1 Schistocerca gregaria isolate iqSchGreg1 chromosome 1, iqSchGreg1.2
+Length=1209568729
+
+ Score = 26.6 bits (57),  Expect = 3841, Method: Composition-based stats.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2          WCRLNLGPAWGGRC  15
+                  W RL L PA GGRC
+Sbjct  707073049  WLRLFLSPATGGRC  707073008
+
+
+>NW_018151086.1 Pogona vitticeps unplaced genomic scaffold, pvi1.1.0 contig10791
+Length=1315884
+
+ Score = 26.6 bits (57),  Expect = 3956, Method: Compositional matrix adjust.
+ Identities = 11/15 (73%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1       KWCRLNLGPAWGGRC  15
+                WCR  LGP WGGRC
+Sbjct  334156  SWCRDVLGPPWGGRC  334200
+
+
+>NW_004497271.1 Dasypus novemcinctus isolate 3-136 unplaced genomic scaffold, 
+Dasnov3.0 Scaffold39536
+Length=3445785
+
+ Score = 26.6 bits (57),  Expect = 4074, Method: Composition-based stats.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGG  13
+                KWCR N GP WGG
+Sbjct  1491955  KWCRRNPGPKWGG  1491993
+
+
+>NW_018108255.1 Loa loa unplaced genomic scaffold supercont3.75, whole genome 
+shotgun sequence
+Length=250491
+
+ Score = 26.2 bits (56),  Expect = 4280, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  2       WCRLNLGPAWGGR  14
+               W   NLGP WGGR
+Sbjct  117195  WDNTNLGPRWGGR  117157
+
+
+>NC_067141.1 Acomys russatus chromosome 5, mAcoRus1.1
+Length=79927262
+
+ Score = 26.2 bits (56),  Expect = 4494, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGR  14
+                 K+  LNL P+WGGR
+Sbjct  33152091  KFLTLNLSPSWGGR  33152132
+
+
+>NW_006432224.1 Pteropus alecto unplaced genomic scaffold, ASM32557v1 scaffold102
+Length=2830556
+
+ Score = 26.2 bits (56),  Expect = 4583, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  1        KWCRLNLGPAWGGR  14
+                +WCR   G  WGGR
+Sbjct  1446823  EWCRPGCGKEWGGR  1446782
+
+
+>NC_059160.1 Bubalus bubalis isolate 160015118507 breed Murrah chromosome 
+4, NDDB_SH_1
+Length=164971372
+
+ Score = 26.2 bits (56),  Expect = 4628, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  92749681  CGLQLGPLWGRRC  92749719
+
+
+>NC_037332.1 Bos taurus isolate L1 Dominette 01449 registration number 42190680 
+breed Hereford chromosome 5, ARS-UCD1.2
+Length=120089316
+
+ Score = 26.2 bits (56),  Expect = 4628, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  27529233  CGLQLGPLWGRRC  27529195
+
+
+>NW_026260792.1 Pisolithus orientalis strain OTSU chromosome Unknown F5J12scaffold_11, 
+whole genome shotgun sequence
+Length=1170972
+
+ Score = 26.2 bits (56),  Expect = 4628, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 8/13 (62%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  2       WCRLNLGPAWGGR  14
+               WCRL  G  W GR
+Sbjct  847341  WCRLQFGITWTGR  847303
+
+
+>NW_010476256.1 Chlamydotis macqueenii isolate BGI_N324 unplaced genomic scaffold, 
+ASM69519v1 scaffold2338
+Length=101870
+
+ Score = 26.2 bits (56),  Expect = 4675, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  1      KWCRLNLGPAWGGR  14
+              K+C LNLGP+WG R
+Sbjct  72428  KYCSLNLGPSWGKR  72387
+
+
+>NC_051063.1 Peromyscus leucopus breed LL Stock chromosome 1, UCI_PerLeu_2.1
+Length=193658164
+
+ Score = 26.2 bits (56),  Expect = 4719, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  1          KWCRLNLGPAWGGR  14
+                  +WCRL+L PA GGR
+Sbjct  176265214  RWCRLSLAPAPGGR  176265173
+
+
+>NW_017963657.1 Cyberlindnera jadinii NRRL Y-1542 unplaced genomic scaffold CYBJAscaffold_6, 
+whole genome shotgun sequence
+Length=700888
+
+ Score = 26.2 bits (56),  Expect = 4720, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  2       WCRLNLGPAWGGRC  15
+               WC LNL  AW  RC
+Sbjct  302309  WCLLNLVQAWSSRC  302350
+
+
+>NC_055964.1 Alosa sapidissima isolate fAloSap1 chromosome 8, fAloSap1.pri
+Length=38912301
+
+ Score = 26.2 bits (56),  Expect = 4908, Method: Compositional matrix adjust.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = +2
+
+Query  2         WCRLNLGPAWGG  13
+                 WCR  LGPAWGG
+Sbjct  34978109  WCRRELGPAWGG  34978144
+
+
+>NC_065572.1 Mercurialis annua linkage group LG3, ddMerAnnu1.1
+Length=76280018
+
+ Score = 26.2 bits (56),  Expect = 5005, Method: Composition-based stats.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  3         CRLNLGPAWGGRC  15
+                 CR NLG  WGGRC
+Sbjct  53885716  CRPNLGFVWGGRC  53885754
+
+
+>NC_064644.1 Schistocerca serialis cubense isolate TAMUIC-IGC-003099 chromosome 
+7, iqSchSeri2.2
+Length=646245375
+
+ Score = 26.2 bits (56),  Expect = 5104, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3          CRLNLGPAWGGRC  15
+                  CR ++GPA GG C
+Sbjct  210114288  CRFSIGPALGGHC  210114250
+
+
+>NW_020799097.1 Athene cunicularia isolate RWA chromosome 3 unlocalized genomic 
+scaffold, athCun1 chr3_part1
+Length=125482743
+
+ Score = 26.2 bits (56),  Expect = 5308, Method: Composition-based stats.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  2          WCRLNLGPAWGGRC  15
+                  W RLN GPA G RC
+Sbjct  123127250  WERLNKGPACGPRC  123127209
+
+
+>NW_022639599.1 Odontomachus brunneus isolate Ranch 3 - 2012 unplaced genomic 
+scaffold, Obru_v1 Obru_scaffold_149
+Length=912995
+
+ Score = 26.2 bits (56),  Expect = 5309, Method: Composition-based stats.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  1       KWCRLNLGPAWGGR  14
+               +WCR NL PAW GR
+Sbjct  447063  RWCRANLRPAWNGR  447104
+
+
+>NC_050607.1 Megalops cyprinoides isolate fMegCyp1 chromosome 25, fMegCyp1.pri
+Length=20413686
+
+ Score = 26.2 bits (56),  Expect = 5361, Method: Compositional matrix adjust.
+ Identities = 11/13 (85%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  3        CRLNLGPAWGGRC  15
+                CRLNL PA GGRC
+Sbjct  1224762  CRLNLHPALGGRC  1224800
+
+
+>NW_026542595.1 Macrosteles quadrilineatus isolate MER2022 unplaced genomic scaffold, 
+UCM_ALF_1.0 Scaffold_2__2_contigs__length_208266976
+Length=208266978
+
+ Score = 26.2 bits (56),  Expect = 5413, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCRL  GP+WG RC
+Sbjct  49993560  WCRLVSGPSWGSRC  49993519
+
+
+>NC_032654.1 Bos indicus isolate QUIL7308 breed Nelore chromosome 5, Bos_indicus_1.0
+Length=125642736
+
+ Score = 26.2 bits (56),  Expect = 5413, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -3
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  30436702  CGLQLGPLWGRRC  30436664
+
+
+>NC_040080.1 Bos indicus x Bos taurus breed Angus x Brahman F1 hybrid chromosome 
+5, Bos_hybrid_MaternalHap_v2.0
+Length=120179969
+
+ Score = 26.2 bits (56),  Expect = 5413, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  92734053  CGLQLGPLWGRRC  92734091
+
+
+>NC_046982.1 Cyclopterus lumpus isolate fCycLum1 chromosome 17, fCycLum1.pri
+Length=23584696
+
+ Score = 26.2 bits (56),  Expect = 5413, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWCRL+  P WG RC
+Sbjct  6397225  KWCRLSKKPLWGSRC  6397181
+
+
+>NW_011494955.1 Bison bison bison isolate TAMUID 2011002044 unplaced genomic 
+scaffold, Bison_UMD1.0 scf7180017864383
+Length=9579789
+
+ Score = 26.2 bits (56),  Expect = 5413, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  3        CRLNLGPAWGGRC  15
+                C L LGP WG RC
+Sbjct  6038863  CGLQLGPLWGRRC  6038901
+
+
+>NC_064755.1 Epinephelus fuscoguttatus linkage group LG4, E.fuscoguttatus.final_Chr_v1
+Length=47419940
+
+ Score = 26.2 bits (56),  Expect = 5467, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WC  NLGP W GRC
+Sbjct  15404155  WCLRNLGPIWHGRC  15404114
+
+
+>NC_071614.1 Dryobates pubescens isolate bDryPub1 chromosome 3, bDryPub1.pri
+Length=49942877
+
+ Score = 26.2 bits (56),  Expect = 5575, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3         CRLNLGPAWGGRC  15
+                 CRLN G  WGG C
+Sbjct  10946771  CRLNSGAPWGGAC  10946733
+
+
+>NC_044569.1 Rhinopithecus roxellana isolate Shanxi Qingling chromosome 21, 
+ASM756505v1
+Length=81002553
+
+ Score = 26.2 bits (56),  Expect = 5630, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3         CRLNLGPAWGGRC  15
+                 CRL L P WGG C
+Sbjct  32499000  CRLFLYPFWGGEC  32498962
+
+
+>NC_051448.1 Kryptolebias marmoratus isolate JLee-2015 linkage group LG19, 
+ASM164957v2
+Length=24173741
+
+ Score = 26.2 bits (56),  Expect = 5685, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGR  14
+                 +WCRL+ GPA GGR
+Sbjct  16406409  RWCRLSTGPAGGGR  16406368
+
+
+>NC_051170.1 Rhipicephalus microplus isolate Rmic-2018 chromosome 6, ASM1333972v1
+Length=183350851
+
+ Score = 26.2 bits (56),  Expect = 5798, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -2
+
+Query  1          KWCRLNLGPAWGG  13
+                  +WCRL+  P WGG
+Sbjct  156264474  RWCRLSTYPEWGG  156264436
+
+
+>NC_052153.1 Scyliorhinus canicula chromosome 8, sScyCan1.1
+Length=199962141
+
+ Score = 25.8 bits (55),  Expect = 5855, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = +2
+
+Query  2         WCRLNLGPAWGGR  14
+                 WCR  +GP WGG+
+Sbjct  51547931  WCRAPMGPGWGGQ  51547969
+
+
+>NC_071326.1 Anopheles marshallii chromosome 2, idAnoMarsDA_429_01
+Length=92345055
+
+ Score = 25.8 bits (55),  Expect = 5855, Method: Composition-based stats.
+ Identities = 9/12 (75%), Positives = 9/12 (75%), Gaps = 0/12 (0%)
+ Frame = -3
+
+Query  4         RLNLGPAWGGRC  15
+                 RLN  P WGGRC
+Sbjct  21709135  RLNHAPRWGGRC  21709100
+
+
+>NC_052477.1 Dioscorea cayenensis subsp. rotundata cultivar TDr96_F1 chromosome 
+7, TDr96_F1_v2_PseudoChromosome.rev07_lg8_w22 25.fasta
+Length=31772377
+
+ Score = 25.8 bits (55),  Expect = 5855, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  2        WCRLNLGPAWGGR  14
+                W R N+ P WGGR
+Sbjct  1971562  WGRCNMPPIWGGR  1971600
+
+
+>NW_026262679.1 Mytilus californianus isolate M0D057914Y unplaced genomic scaffold, 
+xbMytCali1.0.p SCAF_3
+Length=132162296
+
+ Score = 25.8 bits (55),  Expect = 5971, Method: Composition-based stats.
+ Identities = 9/10 (90%), Positives = 9/10 (90%), Gaps = 0/10 (0%)
+ Frame = -3
+
+Query  5         LNLGPAWGGR  14
+                 LNLGP WGGR
+Sbjct  48680379  LNLGPFWGGR  48680350
+
+
+>NW_022205645.1 Phasianus colchicus isolate SZU-A5-319 unplaced genomic scaffold, 
+ASM414374v1 scaffold415_cov55
+Length=4066067
+
+ Score = 25.8 bits (55),  Expect = 6030, Method: Composition-based stats.
+ Identities = 8/15 (53%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1       KWCRLNLGPAWGGRC  15
+               +WCR+N+G    GRC
+Sbjct  740054  QWCRVNMGSESSGRC  740010
+
+
+>NC_059082.1 Mauremys mutica isolate MM-2020 ecotype Southern chromosome 11, 
+ASM2049712v1
+Length=86617258
+
+ Score = 25.8 bits (55),  Expect = 6089, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCR  LGP W GRC
+Sbjct  37470765  WCRTELGPKWVGRC  37470806
+
+
+>NW_023144627.1 Thrips palmi isolate BJ-2018 unplaced genomic scaffold, TpBJ-2018v1 
+HiC_scaffold_18
+Length=21419749
+
+ Score = 25.8 bits (55),  Expect = 6089, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCR    PAWGG C
+Sbjct  11491987  WCRATTLPAWGGLC  11491946
+
+
+>NC_057382.1 Rhizoctonia solani chromosome 13, complete sequence
+Length=2271624
+
+ Score = 25.8 bits (55),  Expect = 6089, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+ Frame = +3
+
+Query  3        CRLNLGPAWGGR  14
+                CR N  P WGGR
+Sbjct  2254485  CRANFTPQWGGR  2254520
+
+
+>NC_052632.1 Mauremys reevesii isolate NIE-2019 linkage group 10, ASM1616193v1
+Length=85359860
+
+ Score = 25.8 bits (55),  Expect = 6149, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCR  LGP W GRC
+Sbjct  37076337  WCRTELGPKWVGRC  37076378
+
+
+>NW_016816262.1 Rhinopithecus bieti isolate Rb0 unplaced genomic scaffold, ASM169854v1
+Length=1596469
+
+ Score = 25.8 bits (55),  Expect = 6149, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -3
+
+Query  3       CRLNLGPAWGGRC  15
+               CRL L P WGG C
+Sbjct  761903  CRLFLYPFWGGEC  761865
+
+
+>NW_022900942.1 Fukomys damarensis isolate Sample0158 unplaced genomic scaffold, 
+DMR_v1.0_HiC HiC_scaffold_30
+Length=69546046
+
+ Score = 25.8 bits (55),  Expect = 6210, Method: Compositional matrix adjust.
+ Identities = 11/12 (92%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+ Frame = -3
+
+Query  3         CRLNLGPAWGGR  14
+                 CRLNLGPAWG R
+Sbjct  37271729  CRLNLGPAWGPR  37271694
+
+
+>NC_057817.1 Cervus elaphus chromosome 3, mCerEla1.1
+Length=55858895
+
+ Score = 25.8 bits (55),  Expect = 6210, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -2
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  27412666  CGLQLGPLWGRRC  27412628
+
+
+>NC_057410.1 Cervus canadensis isolate Bull #8, Minnesota chromosome 25, ASM1932006v1
+Length=53619048
+
+ Score = 25.8 bits (55),  Expect = 6210, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  28275396  CGLQLGPLWGRRC  28275434
+
+
+>NC_065525.1 Epinephelus moara isolate mb chromosome 20, YSFRI_EMoa_1.0
+Length=46598985
+
+ Score = 25.8 bits (55),  Expect = 6271, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WC  NLGP W GRC
+Sbjct  14900990  WCLRNLGPIWHGRC  14900949
+
+
+>NC_056029.1 Peromyscus maniculatus bairdii isolate BW chromosome 22, HU_Pman_2.1.3
+Length=54709200
+
+ Score = 25.8 bits (55),  Expect = 6458, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCRL+LGP WG  C
+Sbjct  27555107  WCRLSLGPRWGDLC  27555066
+
+
+>NC_061813.1 Girardinichthys multiradiatus isolate DD_20200921_A chromosome 
+21, DD_fGirMul_XY1
+Length=42588670
+
+ Score = 25.8 bits (55),  Expect = 6458, Method: Composition-based stats.
+ Identities = 8/15 (53%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -2
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 KW +LN+GP+W   C
+Sbjct  27894597  KWIKLNVGPSWKTTC  27894553
+
+
+>NC_051245.2 Chelonia mydas isolate rCheMyd1 chromosome 5, rCheMyd1.pri.v2
+Length=133272604
+
+ Score = 25.8 bits (55),  Expect = 6521, Method: Composition-based stats.
+ Identities = 7/9 (78%), Positives = 9/9 (100%), Gaps = 0/9 (0%)
+ Frame = +1
+
+Query  7          LGPAWGGRC  15
+                  +GP+WGGRC
+Sbjct  121230787  VGPSWGGRC  121230813
+
+
+>NW_009952052.1 Chaetura pelagica isolate M959 unplaced genomic scaffold, ChaPel_1.0 
+scaffold150
+Length=5008875
+
+ Score = 25.8 bits (55),  Expect = 6521, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWC LN+G  +GG C
+Sbjct  4433064  KWCVLNIGMYFGGTC  4433020
+
+
+>NC_072822.1 Dunckerocampus dactyliophorus isolate RoL2022-P2 chromosome 4, 
+RoL_Ddac_1.1
+Length=37920988
+
+ Score = 25.8 bits (55),  Expect = 6716, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGR  14
+                + C+LNLGPAW GR
+Sbjct  2539736  RICQLNLGPAWTGR  2539777
+
+
+>NC_062972.1 Leguminivora glycinivorella isolate SPB_JAAS2020 chromosome 2, 
+LegGlyc_1.1
+Length=34640967
+
+ Score = 25.8 bits (55),  Expect = 6849, Method: Compositional matrix adjust.
+ Identities = 9/13 (69%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  2         WCRLNLGPAWGGR  14
+                 WCR+N+  AWGGR
+Sbjct  10250284  WCRMNIKTAWGGR  10250322
+
+
+>NW_023605194.1 Talpa occidentalis isolate TD23 unplaced genomic scaffold, MPIMG_talOcc4v2.1 
+talOcc4.8
+Length=119794413
+
+ Score = 25.8 bits (55),  Expect = 6916, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGRC  15
+                 +WCRL LG  WGG C
+Sbjct  21730579  RWCRLPLGAEWGGVC  21730623
+
+
+>NC_067154.1 Acomys russatus chromosome 18, mAcoRus1.1
+Length=64120505
+
+ Score = 25.8 bits (55),  Expect = 6916, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGRC  15
+                  W +L LGPAWGGR 
+Sbjct  47300493  SWQQLQLGPAWGGRS  47300449
+
+
+>NC_068921.1 Budorcas taxicolor isolate Tak-1 chromosome 12, Takin1.1
+Length=87320261
+
+ Score = 25.8 bits (55),  Expect = 6984, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCR  L PAW GRC
+Sbjct  86618526  WCRTQLHPAWPGRC  86618567
+
+
+>NC_051169.1 Rhipicephalus microplus isolate Rmic-2018 chromosome 5, ASM1333972v1
+Length=206569738
+
+ Score = 25.8 bits (55),  Expect = 7053, Method: Compositional matrix adjust.
+ Identities = 8/15 (53%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1          KWCRLNLGPAWGGRC  15
+                  +WC+ N+  AWGG C
+Sbjct  185385011  RWCKFNMAVAWGGSC  185384967
+
+
+>NW_004451079.1 Odobenus rosmarus divergens isolate Ivan unplaced genomic scaffold, 
+Oros_1.0 Scaffold816
+Length=1503870
+
+ Score = 25.8 bits (55),  Expect = 7053, Method: Composition-based stats.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+ Frame = -3
+
+Query  2        WCRLNLGPAWG  12
+                WC L+L PAWG
+Sbjct  1018813  WCELHLSPAWG  1018781
+
+
+>NW_010387636.1 Morus notabilis unplaced genomic scaffold, ASM41409v2 Scaffold184
+Length=1542906
+
+ Score = 25.8 bits (55),  Expect = 7123, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  1       KWCRLNLGPAWGGRC  15
+               ++CRLNL P +GG C
+Sbjct  313831  EYCRLNLPPNFGGFC  313787
+
+
+>NW_021939798.1 Manacus vitellinus isolate BGI_N305 unplaced genomic scaffold, 
+ASM171598v3 scaffold_24_pilon
+Length=12769260
+
+ Score = 25.8 bits (55),  Expect = 7193, Method: Compositional matrix adjust.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWG  12
+                KWCR  LGPAWG
+Sbjct  5322162  KWCRTPLGPAWG  5322127
+
+
+>NC_039293.1 Carassius auratus strain Wakin linkage group LG28B, ASM336829v1
+Length=10089910
+
+ Score = 25.8 bits (55),  Expect = 7264, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -3
+
+Query  3        CRLNLGPAWGGRC  15
+                C L+L P+W GRC
+Sbjct  4973606  CSLSLSPSWRGRC  4973568
+
+
+>NW_003613778.1 Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold365
+Length=2141490
+
+ Score = 25.8 bits (55),  Expect = 7264, Method: Composition-based stats.
+ Identities = 8/9 (89%), Positives = 9/9 (100%), Gaps = 0/9 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGP  9
+                KWC+LNLGP
+Sbjct  1892636  KWCKLNLGP  1892662
+
+
+>NW_010387452.1 Morus notabilis unplaced genomic scaffold, ASM41409v2 C11450301
+Length=2026
+
+ Score = 25.8 bits (55),  Expect = 7284, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1    KWCRLNLGPAWGGRC  15
+            ++CRLNL P +GG C
+Sbjct  433  EYCRLNLPPNFGGFC  389
+
+
+>NC_068377.1 Carassius gibelio isolate Cgi1373 ecotype wild population from 
+Czech Republic chromosome A7, carGib1.2-hapl.c
+Length=42706565
+
+ Score = 25.8 bits (55),  Expect = 7335, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  2        WCRLNLGPAWGGRC  15
+                 CRL  GPA GGRC
+Sbjct  5134244  QCRLTTGPAQGGRC  5134285
+
+
+>NW_016107412.1 Cebus imitator isolate Cc_AM_T3 unplaced genomic scaffold, Cebus_imitator-1.0 
+Scaffold97
+Length=6724777
+
+ Score = 25.8 bits (55),  Expect = 7407, Method: Composition-based stats.
+ Identities = 9/11 (82%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+ Frame = +2
+
+Query  4       RLNLGPAWGGR  14
+               R NLGP WGGR
+Sbjct  313478  RGNLGPGWGGR  313510
+
+
+>NC_064632.1 Schistocerca cancellata isolate TAMUIC-IGC-003103 chromosome 
+7, iqSchCanc2.1
+Length=617156563
+
+ Score = 25.8 bits (55),  Expect = 7856, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3          CRLNLGPAWGGRC  15
+                  CRL +GPAW  +C
+Sbjct  426383476  CRLRIGPAWATQC  426383438
+
+
+>NC_044513.1 Camelus dromedarius isolate Drom800 breed African chromosome 
+3, CamDro3
+Length=120724560
+
+ Score = 25.8 bits (55),  Expect = 7856, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1          KWCRLNLGPAWGGRC  15
+                  +WCR   GPA GGRC
+Sbjct  106442377  RWCRFGQGPARGGRC  106442421
+
+
+>NC_045698.1 Camelus ferus isolate YT-003-E chromosome 3, BCGSAC_Cfer_1.0
+Length=116890316
+
+ Score = 25.8 bits (55),  Expect = 7856, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1          KWCRLNLGPAWGGRC  15
+                  +WCR   GPA GGRC
+Sbjct  102929557  RWCRFGQGPARGGRC  102929601
+
+
+>NW_011514979.1 Camelus bactrianus breed Alxa unplaced genomic scaffold, Ca_bactrianus_MBC_1.0 
+scaffold442
+Length=2297666
+
+ Score = 25.8 bits (55),  Expect = 7856, Method: Compositional matrix adjust.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWGGRC  15
+                +WCR   GPA GGRC
+Sbjct  1231543  RWCRFGQGPARGGRC  1231587
+
+
+>NW_024429204.1 Mesocricetus auratus isolate SY011 unplaced genomic scaffold, 
+BCM_Maur_2.0 Super-Scaffold_100023
+Length=32812233
+
+ Score = 25.4 bits (54),  Expect = 8090, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = +2
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L+L PAWG RC
+Sbjct  25230413  CVLSLPPAWGSRC  25230451
+
+
+>NC_068389.1 Carassius gibelio isolate Cgi1373 ecotype wild population from 
+Czech Republic chromosome A19, carGib1.2-hapl.c
+Length=30891682
+
+ Score = 25.4 bits (54),  Expect = 8090, Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -3
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KWC  ++ PA+GG+
+Sbjct  23252927  KWCTYHISPAYGGK  23252886
+
+
+>NT_176394.1 Cavia porcellus strain inbred line 2N unplaced genomic scaffold, 
+Cavpor3.0 supercont2_25
+Length=28222655
+
+ Score = 25.4 bits (54),  Expect = 8090, Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WC+ + GP W G C
+Sbjct  24119645  WCKYSFGPGWAGLC  24119686
+
+
+>NC_051057.1 Acanthopagrus latus isolate v.2019 chromosome 19, fAcaLat1.1
+Length=24955350
+
+ Score = 25.4 bits (54),  Expect = 8090, Method: Composition-based stats.
+ Identities = 8/11 (73%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAW  11
+                 +WCRL+L PAW
+Sbjct  13170202  RWCRLHLVPAW  13170234
+
+
+>NC_064843.1 Elephas maximus indicus isolate mEleMax1 chromosome 25, mEleMax1 
+primary haplotype
+Length=68857337
+
+ Score = 25.4 bits (54),  Expect = 8170, Method: Compositional matrix adjust.
+ Identities = 9/12 (75%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAWG  12
+                 +WC LNL PAWG
+Sbjct  11447288  QWCSLNLAPAWG  11447253
+
+
+>NC_067451.1 Hippocampus zosterae strain Florida chromosome 1, ASM2543408v3
+Length=42937977
+
+ Score = 25.4 bits (54),  Expect = 8170, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+ Frame = +1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCRL+L  +W  RC
+Sbjct  15688162  WCRLSLLVSWAARC  15688203
+
+
+>NW_022681465.1 Trachypithecus francoisi isolate TF-2019V2 unplaced genomic scaffold, 
+Tfra_2.0 Lachesis_group2
+Length=178942783
+
+ Score = 25.4 bits (54),  Expect = 8251, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = +1
+
+Query  1         KWCRLNLGPAWGGR  14
+                 +WC+LN+ P  GGR
+Sbjct  36382672  EWCKLNIKPTTGGR  36382713
+
+
+>NC_039286.1 Carassius auratus strain Wakin chromosome 44, ASM336829v1
+Length=15572452
+
+ Score = 25.4 bits (54),  Expect = 8332, Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGR  14
+                KWC  ++ PA+GG+
+Sbjct  4047818  KWCTYHISPAYGGK  4047859
+
+
+>NC_071292.1 Anopheles nili chromosome 3, idAnoNiliSN_F5_01
+Length=75938266
+
+ Score = 25.4 bits (54),  Expect = 8414, Method: Composition-based stats.
+ Identities = 9/11 (82%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGPAW  11
+                 K CRLNLGP W
+Sbjct  20147284  KTCRLNLGPPW  20147252
+
+
+>NW_010972631.1 Haliaeetus leucocephalus isolate CR32 unplaced genomic scaffold, 
+Haliaeetus_leucocephalus-4.0 Scaffold195
+Length=13513712
+
+ Score = 25.4 bits (54),  Expect = 8497, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+ Frame = +2
+
+Query  1        KWCRLNLGPAWGGRC  15
+                KWC LN G  + GRC
+Sbjct  6180125  KWCMLNTGTHFSGRC  6180169
+
+
+>NW_003573495.1 Loxodonta africana isolate ISIS603380 unplaced genomic scaffold, 
+Loxafr3.0 scaffold_75
+Length=10419729
+
+ Score = 25.4 bits (54),  Expect = 8497, Method: Compositional matrix adjust.
+ Identities = 9/12 (75%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = +1
+
+Query  1        KWCRLNLGPAWG  12
+                +WC LNL PAWG
+Sbjct  8391571  QWCSLNLAPAWG  8391606
+
+
+>NW_009782037.1 Haliaeetus albicilla isolate BGI_N329 unplaced genomic scaffold, 
+ASM69140v1 scaffold6407
+Length=57715
+
+ Score = 25.4 bits (54),  Expect = 8503, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+ Frame = -1
+
+Query  1      KWCRLNLGPAWGGRC  15
+              KWC LN G  + GRC
+Sbjct  22846  KWCMLNTGTHFSGRC  22802
+
+
+>NC_051083.1 Peromyscus leucopus breed LL Stock chromosome X, UCI_PerLeu_2.1
+Length=138232706
+
+ Score = 25.4 bits (54),  Expect = 8580, Method: Composition-based stats.
+ Identities = 8/9 (89%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+ Frame = +3
+
+Query  1          KWCRLNLGP  9
+                  KWC LNLGP
+Sbjct  124564149  KWCELNLGP  124564175
+
+
+>NC_056031.1 Peromyscus maniculatus bairdii isolate BW chromosome X, HU_Pman_2.1.3
+Length=134369076
+
+ Score = 25.4 bits (54),  Expect = 8580, Method: Composition-based stats.
+ Identities = 8/9 (89%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+ Frame = -1
+
+Query  1         KWCRLNLGP  9
+                 KWC LNLGP
+Sbjct  13478142  KWCELNLGP  13478116
+
+
+>NW_026535805.1 Melozone crissalis strain CALT ecotype California unplaced genomic 
+scaffold, PUWL_Pcris_2 ptg000027l_1
+Length=89094009
+
+ Score = 25.4 bits (54),  Expect = 8580, Method: Compositional matrix adjust.
+ Identities = 10/11 (91%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+ Frame = +1
+
+Query  3         CRLNLGPAWGG  13
+                 CRLNLGPAWG 
+Sbjct  55605049  CRLNLGPAWGS  55605081
+
+
+>NW_004955447.1 Chinchilla lanigera isolate Chin_1 unplaced genomic scaffold, 
+ChiLan1.0 scaffold00046
+Length=19230848
+
+ Score = 25.4 bits (54),  Expect = 8580, Method: Compositional matrix adjust.
+ Identities = 9/13 (69%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+ Frame = -3
+
+Query  2         WCRLNLGPAWGGR  14
+                 WCR+NL P WGG+
+Sbjct  10707552  WCRMNLEPGWGGQ  10707514
+
+
+>NW_026138095.1 Manacus candei isolate 608988 ecotype Guabito, Panama unplaced 
+genomic scaffold, ASM2559294v1 h1tg000047l
+Length=13289495
+
+ Score = 25.4 bits (54),  Expect = 8580, Method: Compositional matrix adjust.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+ Frame = +3
+
+Query  1        KWCRLNLGPAWG  12
+                KWCR  LGPAWG
+Sbjct  7495215  KWCRTPLGPAWG  7495250
+
+
+>NC_053132.1 Perca fluviatilis chromosome 21, GENO_Pfluv_1.0
+Length=33651559
+
+ Score = 25.4 bits (54),  Expect = 8750, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+ Frame = -3
+
+Query  2        WCRLNLGPAWGG  13
+                WCR  L P WGG
+Sbjct  9498485  WCRGPLAPRWGG  9498450
+
+
+>NW_024100954.1 Saimiri boliviensis boliviensis isolate 100643 breed Bolivian 
+squirrel monkey unplaced genomic scaffold, BCM_Sbol_2.0 Super-Scaffold_136
+Length=16554770
+
+ Score = 25.4 bits (54),  Expect = 8750, Method: Composition-based stats.
+ Identities = 8/9 (89%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+ Frame = -3
+
+Query  6         NLGPAWGGR  14
+                 NLGP WGGR
+Sbjct  16347249  NLGPGWGGR  16347223
+
+
+>NW_022611647.1 Hylobates moloch isolate HMO894 unplaced genomic scaffold, HMol_V2 
+SCAF_00005
+Length=158804892
+
+ Score = 25.4 bits (54),  Expect = 8836, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  3        CRLNLGPAWGGRC  15
+                C L +GP WGG C
+Sbjct  7340937  CPLFIGPFWGGEC  7340975
+
+
+>NC_062295.1 Lutra lutra chromosome 18, mLutLut1.2
+Length=40428123
+
+ Score = 25.4 bits (54),  Expect = 8836, Method: Compositional matrix adjust.
+ Identities = 9/14 (64%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WC ++LGPA G RC
+Sbjct  21879801  WCHVDLGPALGSRC  21879760
+
+
+>NW_022103942.1 Echinops telfairi isolate 266 unplaced genomic scaffold, ASM31398v2 
+ScPeMD7_44;HRSCAF=162
+Length=15400271
+
+ Score = 25.4 bits (54),  Expect = 8836, Method: Composition-based stats.
+ Identities = 8/13 (62%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3         CRLNLGPAWGGRC  15
+                 CR+N G  WG RC
+Sbjct  12898247  CRINPGDQWGERC  12898209
+
+
+>NW_004443966.1 Trichechus manatus latirostris isolate Lorelei unplaced genomic 
+scaffold, TriManLat1.0 scaffold00030
+Length=22861086
+
+ Score = 25.4 bits (54),  Expect = 9011, Method: Composition-based stats.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+ Frame = +1
+
+Query  5         LNLGPAWGGRC  15
+                 + LGP WGGRC
+Sbjct  20652598  VGLGPGWGGRC  20652630
+
+
+>NW_023425402.1 Molossus molossus isolate mMolMol1 unplaced genomic scaffold, 
+mMolMol1.p scaffold_m16_p_8
+Length=112819080
+
+ Score = 25.4 bits (54),  Expect = 9100, Method: Composition-based stats.
+ Identities = 8/10 (80%), Positives = 9/10 (90%), Gaps = 0/10 (0%)
+ Frame = -2
+
+Query  4         RLNLGPAWGG  13
+                 R+NLGP WGG
+Sbjct  46656143  RVNLGPKWGG  46656114
+
+
+>NW_004454157.1 Ceratotherium simum simum isolate SDZICR_KB13650 unplaced genomic 
+scaffold, CerSimSim1.0 scaffold00002
+Length=78580661
+
+ Score = 25.4 bits (54),  Expect = 9100, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 W  +NLG AWGGRC
+Sbjct  23838086  WNSVNLGSAWGGRC  23838045
+
+
+>NC_050463.1 Onychomys torridus chromosome 21, mOncTor1.1
+Length=54077118
+
+ Score = 25.4 bits (54),  Expect = 9100, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  2         WCRLNLGPAWGGRC  15
+                 WCRL+LGP WG  C
+Sbjct  27053925  WCRLSLGPRWGDLC  27053884
+
+
+>NW_026068027.1 Microtus fortis isolate MF-2015 unplaced genomic scaffold, M_Fortis_MF-2015_v1.1 
+scaffold_150
+Length=4171530
+
+ Score = 25.4 bits (54),  Expect = 9190, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -3
+
+Query  2       WCRLNLGPAWGGR  14
+               WCR  L PA+GGR
+Sbjct  971224  WCRTPLSPAFGGR  971186
+
+
+>NC_071523.1 Malaclemys terrapin pileata isolate rMalTer1 chromosome 19, rMalTer1.hap1
+Length=23482147
+
+ Score = 25.4 bits (54),  Expect = 9372, Method: Compositional matrix adjust.
+ Identities = 10/13 (77%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+ Frame = -2
+
+Query  2         WCRLNLGPAWGGR  14
+                 WCRL+LGP+ GGR
+Sbjct  16115886  WCRLDLGPSCGGR  16115848
+
+
+>NW_021635040.1 Prosopis alba isolate B1F8T4 unplaced genomic scaffold, ASM479914v1 
+tig00010082_pilon
+Length=903868
+
+ Score = 25.4 bits (54),  Expect = 9372, Method: Compositional matrix adjust.
+ Identities = 11/17 (65%), Positives = 14/17 (82%), Gaps = 2/17 (12%)
+ Frame = +3
+
+Query  1      KWCRLN--LGPAWGGRC  15
+              KWC+LN  +GP+ GGRC
+Sbjct  54459  KWCQLNQMIGPSLGGRC  54509
+
+
+>NW_024872869.1 Cyprinus carpio isolate SPL01 unplaced genomic scaffold, ASM1834038v1 
+S000000118
+Length=17346
+
+ Score = 25.4 bits (54),  Expect = 9396, Method: Composition-based stats.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -2
+
+Query  1      KWCRLNLGPAWGGR  14
+              +WC +++G  WGGR
+Sbjct  10334  RWCNVDIGKLWGGR  10293
+
+
+>NC_037632.1 Arachis hypogaea cultivar Tifrunner chromosome Arahy.15, arahy.Tifrunner.gnm1.KYV3
+Length=160879708
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = +3
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KWC  +L P W GR
+Sbjct  77651523  KWCYRSLQPCWKGR  77651564
+
+
+>NC_029789.2 Arachis ipaensis cultivar K30076 chromosome B05, Araip1.1
+Length=149900536
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  1         KWCRLNLGPAWGGR  14
+                 KWC  +L P W GR
+Sbjct  56829095  KWCYRSLQPCWKGR  56829136
+
+
+>NC_059211.1 Coregonus clupeaformis isolate EN_2021a chromosome 20, ASM2061545v1
+Length=65498856
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Composition-based stats.
+ Identities = 10/17 (59%), Positives = 12/17 (71%), Gaps = 3/17 (18%)
+ Frame = +2
+
+Query  2         WCRLNL---GPAWGGRC  15
+                 W R+NL   GP+W GRC
+Sbjct  53529836  WSRINLEVEGPSWSGRC  53529886
+
+
+>NC_049215.1 Anguilla anguilla isolate fAngAng1 chromosome 15, fAngAng1.pri
+Length=37217334
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+ Frame = -2
+
+Query  4         RLNLGPAWGGRC  15
+                 R N GP WGG C
+Sbjct  11068763  RRNAGPGWGGAC  11068728
+
+
+>NW_005871063.1 Myotis lucifugus unplaced genomic scaffold, Myoluc2.0 scaffold_15
+Length=15054126
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Compositional matrix adjust.
+ Identities = 11/13 (85%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+ Frame = +1
+
+Query  3         CRLNLGPAWGGRC  15
+                 C LNLGPA GGRC
+Sbjct  14924854  CGLNLGPASGGRC  14924892
+
+
+>NW_005364372.1 Myotis brandtii unplaced genomic scaffold, ASM41265v1 scaffold374
+Length=7582247
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Compositional matrix adjust.
+ Identities = 11/13 (85%), Positives = 11/13 (85%), Gaps = 0/13 (0%)
+ Frame = -1
+
+Query  3        CRLNLGPAWGGRC  15
+                C LNLGPA GGRC
+Sbjct  1916537  CGLNLGPASGGRC  1916499
+
+
+>NW_018514583.1 Aotus nancymaae isolate 86115 unplaced genomic scaffold, Anan_2.0 
+Scaffold978
+Length=2895951
+
+ Score = 25.4 bits (54),  Expect = 9557, Method: Composition-based stats.
+ Identities = 9/11 (82%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+ Frame = +3
+
+Query  4       RLNLGPAWGGR  14
+               R NLGP WGGR
+Sbjct  234138  RGNLGPGWGGR  234170
+
+
+>NW_011933306.1 Pogonomyrmex barbatus unplaced genomic scaffold, Pbar_UMD_V03 
+scf7180000349923
+Length=164645
+
+ Score = 25.4 bits (54),  Expect = 9560, Method: Compositional matrix adjust.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+ Frame = -2
+
+Query  2       WCRLNLGPAWGGR  14
+               WC   LGPAWGGR
+Sbjct  150922  WCHAILGPAWGGR  150884
+
+
+>NW_024070213.1 Oryx dammah isolate SB20612 unplaced genomic scaffold, SCBI_Odam_1.1 
+HiC_scaffold_29
+Length=116482292
+
+ Score = 25.4 bits (54),  Expect = 9651, Method: Composition-based stats.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  3         CRLNLGPAWGGRC  15
+                 C L LGP WG RC
+Sbjct  89674167  CGLQLGPLWGRRC  89674205
+
+
+>NC_056028.1 Peromyscus maniculatus bairdii isolate BW chromosome 21, HU_Pman_2.1.3
+Length=70257074
+
+ Score = 25.4 bits (54),  Expect = 9651, Method: Compositional matrix adjust.
+ Identities = 9/12 (75%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+ Frame = +2
+
+Query  4         RLNLGPAWGGRC  15
+                 RL +GP+WGGRC
+Sbjct  59752958  RLKVGPSWGGRC  59752993
+
+
+>NW_020289932.1 Pseudomicrostroma glucosiphilum strain MCA 4718 unplaced genomic 
+scaffold BCV69scaffold_20, whole genome shotgun sequence
+Length=375328
+
+ Score = 25.4 bits (54),  Expect = 9652, Method: Composition-based stats.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+ Frame = +3
+
+Query  1      KWCRLNLGPAWGGRC  15
+              KWC L+   AWGG+C
+Sbjct  26433  KWCILSSTGAWGGKC  26477
+
+
+>NC_060071.1 Meles meles chromosome 6, mMelMel3.1 paternal haplotype
+Length=153770757
+
+ Score = 25.4 bits (54),  Expect = 9842, Method: Compositional matrix adjust.
+ Identities = 10/14 (71%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+ Frame = -1
+
+Query  1        KWCRLNLGPAWGGR  14
+                K+C LNL P WGGR
+Sbjct  7893144  KFCILNLSPHWGGR  7893103
+
+
+>NC_072794.1 Eublepharis macularius isolate TG4126 chromosome 5, MPM_Emac_v1.0
+Length=175518112
+
+ Score = 25.4 bits (54),  Expect = 9939, Method: Composition-based stats.
+ Identities = 10/15 (67%), Positives = 11/15 (73%), Gaps = 1/15 (7%)
+ Frame = -3
+
+Query  2         WCRLNLGP-AWGGRC  15
+                 WC+LN GP AW G C
+Sbjct  66847868  WCQLNSGPVAWWGTC  66847824
+
+
+>NC_064852.1 Suncus etruscus isolate mSunEtr1 chromosome 5, mSunEtr1.pri.cur
+Length=157105255
+
+ Score = 25.4 bits (54),  Expect = 9939, Method: Composition-based stats.
+ Identities = 7/11 (64%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+ Frame = -1
+
+Query  2          WCRLNLGPAWG  12
+                  WCR   GP+WG
+Sbjct  135495679  WCRQTQGPSWG  135495647
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.151    0.693    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6928784993940
+
+
+  Database: RefSeq Eukaryotic Representative Genome Database
+    Posted date:  Apr 13, 2023  5:00 AM
+  Number of letters in database: 1,385,756,998,789
+  Number of sequences in database:  12,720,325
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
